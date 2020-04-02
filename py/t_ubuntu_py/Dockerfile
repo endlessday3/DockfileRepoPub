@@ -1,4 +1,4 @@
-FROM endlessday3/b_ubuntu
+FROM endlessday3/t_ubuntu:16.04
 MAINTAINER endlessday3
 
 RUN apt-get update && apt-get install -y \
